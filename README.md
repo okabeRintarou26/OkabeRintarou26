@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
-**okabeRintarou26/OkabeRintarou26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/OkabeRintarou26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkabeRintarou26&layout=compact&hide_border=true" />
+</a>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
