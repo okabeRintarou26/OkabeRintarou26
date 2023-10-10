@@ -5,6 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkabeRintarou26&layout=compact&hide_border=true" />
 </a>
 
+## My Social Media ⚡
+
+<a href="https://www.facebook.com/Adzharussyukri/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/Adzharussyukri/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
+
 <!--
 Here are some ideas to get you started:
 
